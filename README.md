@@ -17,13 +17,12 @@ Ele não possui persistência em banco de dados e tem como finalidade o entendim
 Instalação do NodeJs via NPM
  - npm install --global http-server
 
-Para rodar a aplicação utilize o comando abaixo e ela deve estar disponivel em: http://localhost:3412/contatos
+Para rodar a aplicação utilize o comando abaixo e ela deve estar disponivel em: http://localhost:3412/operadoras
  ```shell
 node http.js
 ```
 
 ![angularJs](/img/captura.png)
-
 ## Suporte
 
 Por favor entre em contato conosco via [Email]
